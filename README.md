@@ -31,8 +31,8 @@ I’ve also worked on **multiple small projects** (like games, task managers, an
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/eyas-adam-elfaki](https://www.linkedin.com/in/eyas-adam-20a168230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-- 📸 [Instagram]([https://www.instagram.com/eyas.adam.elfaki](https://www.instagram.com/eyas.adam?igsh=MXV4ZW91NzNqeDRrNg==))  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/eyas-adam-elfaki](https://www.linkedin.com/in/eyas-adam-20a168230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📸 [Instagram]([https://www.instagram.com/eyas.adam.elfaki](https://www.instagram.com/eyas.adam?igsh=MXV4ZW91NzNqeDRrNg==)
 
 ---
 
