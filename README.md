@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eyas Adam  
+# 👋 Hi, I'm Eyas Mohammed
 
 🎨 **Frontend Developer** | ⚡ Electrical Engineering Student  
 
