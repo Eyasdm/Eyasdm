@@ -24,7 +24,6 @@ Currently focusing on **JavaScript (ES6+)** and exploring **React & modern UI fr
 - 💻 Focused on **Frontend Development**  
 - 📚 Learning **React** and **Tailwind CSS**  
 - 🤝 Open to **freelance work, internships, and collaboration opportunities**  
-- ⚡ Fun fact: I sometimes spend more time tweaking my CSS than writing JavaScript 😅  
 
 <br>
 
@@ -57,33 +56,33 @@ Currently focusing on **JavaScript (ES6+)** and exploring **React & modern UI fr
   </a>
 </p>
 
-<hr>
+---
 
 ## 📌 Featured Projects  
 
 <a href="https://github.com/Eyasdm/weather-app" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eyasdm&repo=weather-app&theme=dracula" />
 </a>
-<a href="https://github.com/Eyasdm/bankist" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eyasdm&repo=bankist&theme=dracula" />
+<a href="https://github.com/Eyasdm/Bankist-eyas" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eyasdm&repo=Bankist-eyas&theme=dracula" />
 </a>
 
 ---
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+  <summary>📈 My GitHub Stats (click to expand)</summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eyasdm&show_icons=true&theme=gotham" alt="Eyasdm's GitHub Stats"/>
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eyasdm&show_icons=true&theme=gotham" alt="Eyasdm's GitHub Stats"/>
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eyasdm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Eyasdm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </p>
 
 </details>
 
-</br>
+<br/>
 
 <div align="center">
 
