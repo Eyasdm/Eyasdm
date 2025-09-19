@@ -25,16 +25,17 @@ Currently focusing on **JavaScript (ES6+)** and exploring **React & modern UI fr
 - 📚 Learning **React** and **Tailwind CSS**  
 - 🤝 Open to **freelance work, internships, and collaboration opportunities**  
 
-<br>
+<br><br><br> <!-- extra space to push divider below GIF -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Eyasdm&color=blue" alt="profile views"/>
 </p>
 
+<br>
+
 ---
 
-**Languages and Tools:**
-<br>
+## 🧰 Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -70,15 +71,15 @@ Currently focusing on **JavaScript (ES6+)** and exploring **React & modern UI fr
 ---
 
 <details>
-  <summary>📈 My GitHub Stats (click to expand)</summary>
+<summary>📈 My GitHub Stats</summary>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eyasdm&show_icons=true&theme=gotham" alt="Eyasdm's GitHub Stats"/>
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eyasdm&show_icons=true&theme=gotham" alt="Eyasdm's GitHub Stats"/>
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Eyasdm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eyasdm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 </details>
 
