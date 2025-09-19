@@ -3,28 +3,9 @@
   Hey, nice to see you.
 </h1>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/eyas-adam-20a168230" target="_blank">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/eyas.adam" target="_blank">
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:eyasmohammed@example.com" target="_blank">
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/zdqb922tCD/" target="_blank">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" />
-  </a>
-</p>
-
-<br>
-
 Hi, I'm **Eyas Mohammed**, a 🎨 **Frontend Developer** & ⚡ **Electrical Engineering Student**.  
 I love building clean, responsive, and user-friendly web applications.  
 Currently focusing on **JavaScript (ES6+)** and exploring **React & modern UI frameworks**.  
-
-<br>
 
 <img align="right" alt="GIF" height="250" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
@@ -54,6 +35,28 @@ Currently focusing on **JavaScript (ES6+)** and exploring **React & modern UI fr
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"></code>
+
+---
+
+## 🔗 Find me elsewhere
+
+<p align="left">
+  <a href="https://leetcode.com/u/zdqb922tCD/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/eyas-adam-20a168230">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/eyas.adam">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:eyasmohammed@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
