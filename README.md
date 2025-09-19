@@ -44,4 +44,49 @@ Currently focusing on **JavaScript (ES6+)** and exploring **React & modern UI fr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vsc
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/netlify/netlify.png"></code>
+
+---
+
+### 📢 Find me elsewhere
+<p align="left">
+  <a href="https://leetcode.com/u/zdqb922tCD/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+<hr>
+
+## 📌 Featured Projects  
+
+<a href="https://github.com/Eyasdm/weather-app" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eyasdm&repo=weather-app&theme=dracula" />
+</a>
+<a href="https://github.com/Eyasdm/bankist" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eyasdm&repo=bankist&theme=dracula" />
+</a>
+
+---
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eyasdm&show_icons=true&theme=gotham" alt="Eyasdm's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eyasdm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+</details>
+
+</br>
+
+<div align="center">
+
+✨ *Always learning, always building — one project at a time.*  
+### Show some ❤️ by starring my repositories!
+</div>
