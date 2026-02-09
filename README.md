@@ -1,71 +1,87 @@
-<br clear="both">
+# Hi 👋, I'm Eyas Mohammed
 
-<h1 align="center">Hi, I'm Eyas Mohammed 👋</h1>
+### Frontend Developer | Electrical Engineering Student
 
-<br clear="both">
+I’m a **Frontend Developer** with strong hands-on experience building modern, responsive web applications using **React and Next.js**.  
+I enjoy turning ideas into clean, user-friendly interfaces and building real-world projects that solve actual problems.
 
-<h2 align="center">Electrical Engineering Student | Frontend Developer</h2>
-
-<p align="center">
-Electrical Engineering student (GPA 4.00) with interests in renewable energy, waste-to-energy systems, and sustainable engineering. 
-Experienced in frontend development, data analysis, and AI, motivated to build real-world, impactful solutions.
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1o_CO_FFXDi3EsrXV05wrB4AJSnTtEnDW/view?usp=sharing">
-    <img src="https://img.shields.io/badge/My%20CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/>
-  </a>
-</p>
+> I believe learning by building is the fastest way to grow 🚀
 
 ---
 
-<h3 align="left">📤 Contact & Socials</h3>
+## 👨‍💻 About Me
+
+- 🎓 Electrical Engineering student (GPA 4.00)
+- ⚛️ Focused on **Frontend Development (React, Next.js)**
+- 🧩 Strong foundation in **JavaScript (ES6+)**
+- 🎨 Passionate about clean UI, responsive design, and good UX
+- 🤝 Open to **Frontend Internships** and collaboration opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+</div>
+
+**HTML • CSS • JavaScript • React • Next.js • Tailwind CSS • Git • GitHub**
+
+---
+
+## 📚 Learning & Experience
+
+- Completed **The Ultimate React Course 2025 (Udemy – Jonas Schmedtmann)**
+- Built multiple real-world projects using **React, Next.js, Supabase, and modern workflows**
+- Experience with component-based architecture, state management, authentication, and API integration
+
+---
+
+## 📌 Featured Projects
+
+### 🏨 The Wild Oasis – Admin Dashboard
+Modern hotel admin dashboard built with **React**, **Tailwind CSS**, **React Query**, and **Supabase**.
+
+🔗 Live Demo: https://lnkd.in/g9KZsz36  
+💻 Repo: https://lnkd.in/gKvMJqn9  
+
+---
+
+### 🌲 The Wild Oasis – Booking Website
+Full-stack cabin booking platform built with **Next.js**, **Tailwind CSS**, **Supabase**, and **NextAuth**.
+
+🔗 Live Demo: https://lnkd.in/g4ReaiJd  
+💻 Repo: https://lnkd.in/gwbWwRDW  
+
+---
+
+## 🌐 Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eyas-adam-20a168230" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
   </a>
-  <img width="5" />
   <a href="https://www.instagram.com/eyas.adam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="50" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" />
   </a>
-  <img width="5" />
   <a href="mailto:eyasadam01@outlook.com" target="_blank">
-    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/>
-  </a>
-  <img width="5" />
-  <a href="https://codeforces.com/profile/Eyasdm" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/>
+    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="45"/>
   </a>
 </div>
-
-<p align="left">Feel free to connect — always happy to chat!</p>
-
----
-
-<h3 align="left">🧰 Top Technical Skills & Tools</h3>
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
-</div>
-
-<p align="left">
-HTML • CSS • JavaScript • Tailwind CSS • Bootstrap • Git • GitHub • Problem Solving • System Thinking
-</p>
 
 ---
 
@@ -77,9 +93,4 @@ HTML • CSS • JavaScript • Tailwind CSS • Bootstrap • Git • GitHub �
 
 ---
 
-<div align="center">
-
-✨ Always learning, always building — one project at a time.  
-🚀 Interested in frontend development, energy systems, and sustainable tech.
-
-</div>
+✨ *Actively looking for a Frontend Internship where I can learn, contribute, and grow.*
