@@ -51,24 +51,6 @@ I enjoy turning ideas into clean, user-friendly interfaces and building real-wor
 
 ---
 
-## 📌 Featured Projects
-
-### 🏨 The Wild Oasis – Admin Dashboard
-Modern hotel admin dashboard built with **React**, **Tailwind CSS**, **React Query**, and **Supabase**.
-
-🔗 Live Demo: https://lnkd.in/g9KZsz36  
-💻 Repo: https://lnkd.in/gKvMJqn9  
-
----
-
-### 🌲 The Wild Oasis – Booking Website
-Full-stack cabin booking platform built with **Next.js**, **Tailwind CSS**, **Supabase**, and **NextAuth**.
-
-🔗 Live Demo: https://lnkd.in/g4ReaiJd  
-💻 Repo: https://lnkd.in/gwbWwRDW  
-
----
-
 ## 🌐 Connect With Me
 
 <div align="left">
