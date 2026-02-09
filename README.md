@@ -1,94 +1,84 @@
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hey, nice to see you.
-</h1>
+<br clear="both">
 
-<!-- top social: LinkedIn + Instagram only -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/eyas-adam-20a168230" target="_blank">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/eyas.adam" target="_blank">
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram">
-  </a>
+<h1 align="center">Hi, I'm Tala Abusheha 👋</h1>
+
+<h2 align="center">Software Engineer | Front-End Developer</h2>
+
+<p align="center">
+Front-End Developer focused on clean UI, responsive design, and modern web experiences.
 </p>
 
-<br>
-
-Hi, I'm **Eyas Mohammed**, a 🎨 **Frontend Developer** & ⚡ **Electrical Engineering Student**.  
-I love building clean, responsive, and user-friendly web applications.  
-Currently focusing on **JavaScript (ES6+)** and exploring **React & modern UI frameworks**.  
-
-<img align="right" alt="GIF" height="230" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
-
-- 🌍 Based in **Sukabumi, Indonesia**  
-- 💻 Focused on **Frontend Development**  
-- 📚 Learning **React** and **Tailwind CSS**  
-- 🤝 Open to **freelance work, internships, and collaboration opportunities**  
-
-<!-- profile views directly under the text -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Eyasdm&color=blue" alt="profile views"/>
-</p>
-
-<!-- ensure the divider comes *below* the GIF but still near it -->
-<br clear="both"/>
-
----
-
-## 🧰 Languages and Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="GitHub"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png" alt="VS Code"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/netlify/netlify.png" alt="Netlify"></code>
-
----
-
-### 📢 Find me elsewhere
-<p align="left">
-  <!-- same LeetCode SVG style as the example -->
-  <a href="https://leetcode.com/u/zdqb922tCD/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="LeetCode" style="vertical-align:top; margin:4px">
+<p align="center">
+  <a href="https://drive.google.com/file/d/1o_CO_FFXDi3EsrXV05wrB4AJSnTtEnDW/view?usp=sharing" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/My%20CV-007520?style=flat&logo=googledrive&logoColor=white"
+      style="height:35px; object-fit:contain;"
+    />
   </a>
 </p>
 
 ---
 
-## 📌 Featured Projects
+<h3 align="left">📤 Contact & Socials</h3>
 
-<a href="https://github.com/Eyasdm/weather-app" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eyasdm&repo=weather-app&theme=dracula" />
-</a>
-<a href="https://github.com/Eyasdm/Bankist-eyas" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eyasdm&repo=Bankist-eyas&theme=dracula" />
-</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/talaabusheha2832005/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" />
+  </a>
+  <img width="5" />
+  <a href="https://www.instagram.com/tala_abusheha/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="50" alt="instagram logo" />
+  </a>
+  <img width="5" />
+  <a href="mailto:talabts33@gmail.com" target="_blank">
+    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50" />
+  </a>
+  <img width="5" />
+  <a href="https://codeforces.com/profile/Tala_Abusheha" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50" />
+  </a>
+</div>
+
+<p align="left">
+Feel free to connect — always happy to chat!
+</p>
 
 ---
 
-<details>
-  <summary>📈 My GitHub Stats (click to expand)</summary>
+<h3 align="left">🛠️ Top Technical Skills & Tools</h3>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eyasdm&show_icons=true&theme=gotham" alt="Eyasdm's GitHub Stats"/>
-  </p>
+<br clear="both">
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Eyasdm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+</div>
 
-</details>
+<p align="left">
+HTML • CSS • JavaScript • Tailwind CSS • Bootstrap • Git • GitHub
+</p>
 
-<br/>
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talaabusheha/talaabusheha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talaabusheha/talaabusheha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/talaabusheha/talaabusheha/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 <div align="center">
-
-✨ *Always learning, always building — one project at a time.*  
-### Show some ❤️ by starring my repositories!
+✨ Always learning, always building — one project at a time.
 </div>
