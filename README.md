@@ -67,12 +67,4 @@ I enjoy turning ideas into clean, user-friendly interfaces and building real-wor
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eyasdm/Eyasdm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eyasdm/Eyasdm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eyasdm/Eyasdm/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ✨ *Actively looking for a Frontend Internship where I can learn, contribute, and grow.*
