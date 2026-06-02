@@ -34,14 +34,14 @@ Agricultural dry spell prediction model for Sudan. Binary classification on 17 y
 ### TechNest — Full-Stack E-Commerce Platform
 Solo end-to-end build: Next.js frontend, Express/Node backend, MongoDB, Stripe payments with webhooks, JWT auth, role-based access control, Gemini AI chatbot, automated email (Brevo), admin dashboard. Deployed on Vercel + Render.
 
-→ [Live Demo](https://tech-nest-ecommerce.vercel.app) · [`e-commerce`](https://github.com/Eyasdm/e-commerce)
+→ [Live Demo](https://e-commerce-eyasdms-projects.vercel.app) · [`e-commerce`](https://github.com/Eyasdm/e-commerce)
 
 ---
 
 ### Brew-Bite — Cafe Ordering System
 Two-part system: a customer-facing Next.js ordering app with QR-based cashier verification, cart management, and pickup/delivery flow — and a separate React/Vite admin dashboard for order tracking, menu management, and analytics. Both connected to Supabase with real-time sync.
 
-→ [Brew-Bite Website](https://brew-bite-website.vercel.app) · [Dashboard](https://brew-bite-pos.vercel.app) · [`Brew-bite-website`](https://github.com/Eyasdm/Brew-bite-website) · [`brew-bite-dashboard`](https://github.com/Eyasdm/brew-bite-dashboard)
+→ [Brew-Bite Website](https://brewbite.netlify.app) · [Dashboard](https://brew-bite-dashboard.netlify.app) · [`Brew-bite-website`](https://github.com/Eyasdm/Brew-bite-website) · [`brew-bite-dashboard`](https://github.com/Eyasdm/brew-bite-dashboard)
 
 ---
 
