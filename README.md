@@ -6,7 +6,7 @@
 
 *Sukabumi, Indonesia · Originally from Sudan*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-eyas.dev-000000?style=flat&logo=vercel&logoColor=white)](https://eyas.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eyas.dev-000000?style=flat&logo=vercel&logoColor=white)]([https://eyas.dev](https://eyas-dev.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyas-mohammed/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eyasadamelfaki@gmail.com)
 
